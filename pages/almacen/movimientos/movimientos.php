@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-md-2">
         <div class="form-group">
-            <label>Tipo de movimiento</label>
+            <label>Tiposw de movimiento</label>
             <br>
             <select id="tipoMovimientoInv" name="tipoMovimientoInv" class="form-control" required="" >
                 <option value="0" selected="selected">Todos</option>
