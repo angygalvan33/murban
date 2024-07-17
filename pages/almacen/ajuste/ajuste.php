@@ -4,7 +4,7 @@
     <form id="form_evento" role="form">
         <div class="row">
             <div class="col-md-3">
-                <label>Nombre del evento</label>
+                <label>evento</label>
                 <br>
                 <input type="text" id="aevento" name="aevento" class="form-control aevento" required="" style="width:100% !important"></select>
             </div>
