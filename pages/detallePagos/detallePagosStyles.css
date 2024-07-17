@@ -1,0 +1,44 @@
+/*--------general--------*/
+#detallePagosTable tr th:first-child {
+    width:5% !important;
+}
+
+#detallePagosTable tr th:nth-child(2) {
+    width:15% !important;
+}
+
+#detallePagosTable tr th:nth-child(3) {
+    width:15% !important;
+}
+
+#detallePagosTable tr th:nth-child(4) {
+    width:10% !important;
+}
+
+#detallePagosTable tr th:nth-child(5) {
+    width:15% !important;
+}
+
+#detallePagosTable tr th:nth-child(6) {
+    width:15% !important;
+}
+
+#detallePagosTable tr th:nth-child(7) {
+    width:10% !important;
+}
+
+#detallePagosTable tr th:nth-child(8) {
+    width:15% !important;
+}
+/*--------por proveedor--------*/
+#detalleByProveedorTable tr th:first-child {
+    width:25% !important;
+}
+
+#detalleByProveedorTable tr th:nth-child(2) {
+    width:25% !important;
+}
+
+#detalleByProveedorTable tr th:nth-child(3) {
+    width:25% !important;
+}

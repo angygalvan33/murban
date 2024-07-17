@@ -1,0 +1,81 @@
+<!--warning modal-->
+<div id="warningModal" class="modal modal-warning fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Eliminación</h4>
+            </div>
+            <div class="modal-body">
+                <p>¿Estás seguro que deseas eliminar el registro?</p>
+                <input type="hidden" id="idRegistro">
+                <input type="hidden" id="tipo">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline pull-left" data-dismiss="modal">Cerrar</button>
+                <button id="eliminarRegistro" type="button" class="btn btn-outline" data-dismiss="modal" onclick="eliminarRegistro($('#idRegistro').val(),$('#tipo').val())">Eliminar</button>
+              </div>
+        </div>
+    </div>
+</div>
+
+<!--success modal-->
+<div id="successModal" class="modal modal-success fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">REGISTRO</h4>
+            </div>
+            <div class="modal-body">
+                
+            </div>
+            <div class="modal-footer">
+                <button id="aceptar" type="button" class="btn btn-outline" data-dismiss="modal">Aceptar</button>
+              </div>
+        </div>
+    </div>
+</div>
+
+<!--error modal-->
+<div id="errorModal" class="modal modal-danger fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Eliminación</h4>
+            </div>
+            <div class="modal-body">
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline pull-left" data-dismiss="modal">Cerrar</button>
+                <button id="aceptar" type="button" class="btn btn-outline" data-dismiss="modal">Aceptar</button>
+              </div>
+        </div>
+    </div>
+</div>
+
+<!--avisos modal-->
+<div id="avisosModal" class="modal modal-warning fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span></button>
+                
+                <h4 class="modal-title"></h4>
+                
+            </div>
+            
+            <div class="modal-body"></div>
+            
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline" data-dismiss="modal">Aceptar</button>
+              </div>
+        </div>
+    </div>
+</div>

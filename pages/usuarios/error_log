@@ -1,0 +1,2 @@
+[31-May-2018 12:51:55 America/Mexico_City] PHP Fatal error:  Call to undefined method Rol::llenaDato() in /home2/vtme1/public_html/sistemas/cxp/pages/usuarios/datosRoles.php on line 10
+algo

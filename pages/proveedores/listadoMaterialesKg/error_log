@@ -1,0 +1,40 @@
+[15-Mar-2020 04:51:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 497
+[15-Mar-2020 04:52:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 497
+[15-Mar-2020 04:52:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 497
+[15-Mar-2020 04:52:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 497
+[15-Mar-2020 04:58:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 497
+[15-Mar-2020 05:00:09 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:15 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:23 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:24 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:31 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:36 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:40 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:00:49 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:01:12 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:01:26 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:02:07 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:03:37 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:04:17 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:07:47 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:09:23 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:10:46 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:10:49 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:10:50 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:10:56 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:11:24 UTC] PHP Notice:  Undefined index: IdPrecioxKilo in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 502
+[15-Mar-2020 05:47:49 UTC] PHP Notice:  Undefined index: idMaterial in /home/carmenperez/public_html/cyg/pages/proveedores/listadoMaterialesKg/datosKg.php on line 26
+[15-Mar-2020 21:48:28 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/carmenperez/public_html/cyg/pages/proveedores/listadoMaterialesKg/datosKg.php on line 47
+[27-Mar-2020 03:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[27-Mar-2020 03:30:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[27-Mar-2020 03:30:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[01-Apr-2020 03:06:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[01-Apr-2020 03:06:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[01-Apr-2020 03:06:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:00:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542
+[10-Apr-2020 23:01:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carmenperez/public_html/cyg/clases/historicoPrecioMateriales.php on line 542

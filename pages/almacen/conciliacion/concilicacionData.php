@@ -1,0 +1,37 @@
+<?php
+include_once '../../../clases/conexion.php';
+include_once '../../../clases/dataTable.php';
+
+if (!empty($_POST)) {
+    $idUbicacion = $_POST['IdUbicacion'];
+    $orderByColumnIndex = $_POST['order'][0]['column'];
+    $searchValue = $_POST['search']['value'];
+    $columns = $_POST['columns'];
+    
+    $vista = '';
+    $query = "SELECT * FROM %s ";
+    
+    if ($idUbicacion == 0) {
+        $vista = 'VistaInventarioUbicacionMaterial WHERE 1 = 1 ';
+    }
+    else {
+        $query = $query."WHERE IdUbicacion = ". $idUbicacion;
+        $vista = 'VistaInventarioUbicacionMaterial';
+    }
+
+    $dataTable = new dataTable($_POST["draw"],
+                               $orderByColumnIndex,
+                               $columns[$orderByColumnIndex]['data'],
+                               $_POST['order'][0]['dir'],
+                               $_POST["start"],
+                               $_POST['length'],
+                               $vista,
+                               $searchValue,
+                               $columns);
+    
+    $dataTable->construyeConsulta(sprintf($query, $dataTable->nombreTabla));
+    echo json_encode($dataTable->registrosTabla());
+}
+else {
+    echo "NO POST Query from DataTable";
+}

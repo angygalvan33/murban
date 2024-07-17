@@ -1,0 +1,2 @@
+AuthName "ERP_Admin"
+AuthUserFile "/home2/vtme1/.htpasswds/public_html/sistemas/ERP/passwd"

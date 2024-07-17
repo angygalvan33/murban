@@ -1,0 +1,15 @@
+.select2 {
+    width: 100% !important;
+}
+
+.selected {
+    background-color: blue;
+}
+
+.entradaCajaChica {
+    background-color: #c5f5c5;
+}
+
+.salidaCajaChica {
+    background-color: #ffb9b9;
+}

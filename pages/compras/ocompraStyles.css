@@ -1,0 +1,132 @@
+/*--------en espera de autorizacion--------*/
+#sinAutTable tr th:first-child{
+    width:5% !important;
+}
+
+#sinAutTable tr th:nth-child(2){
+    width:10% !important;
+}
+
+#sinAutTable tr th:nth-child(3){
+    width:15% !important;
+}
+
+#sinAutTable tr th:nth-child(4){
+    width:15% !important;
+}
+
+#sinAutTable tr th:nth-child(5){
+    width:30% !important;
+}
+
+#sinAutTable tr th:nth-child(6){
+    width:15% !important;
+}
+
+#sinAutTable tr th:nth-child(7){
+    width:10% !important;
+}
+
+/*--------emitidas--------*/
+#emitidasTable tr th:first-child{
+    width:5% !important;
+}
+
+#emitidasTable tr th:nth-child(2){
+    width:10% !important;
+}
+
+#emitidasTable tr th:nth-child(3){
+    width:15% !important;
+}
+
+#emitidasTable tr th:nth-child(4){
+    width:10% !important;
+}
+
+#emitidasTable tr th:nth-child(5){
+    width:15% !important;
+}
+
+#emitidasTable tr th:nth-child(6){
+    width:10% !important;
+}
+
+#emitidasTable tr th:nth-child(7){
+    width:10% !important;
+}
+
+#emitidasTable tr th:nth-child(8){
+    width:10% !important;
+}
+
+#emitidasTable tr th:nth-child(9){
+    width:15% !important;
+}
+
+/*--------en espera de facturacion--------*/
+#esperaFacturacionTable tr th:first-child{
+    width:5% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(2){
+    width:10% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(3){
+    width:15% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(4){
+    width:10% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(5){
+    width:15% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(6){
+    width:15% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(7){
+    width:10% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(8){
+    width:10% !important;
+}
+
+#esperaFacturacionTable tr th:nth-child(9){
+    width:10% !important;
+}
+
+/*--------canceladas--------*/
+#canceladasTable tr th:first-child{
+    width:5% !important;
+}
+
+#canceladasTable tr th:nth-child(2){
+    width:10% !important;
+}
+
+#canceladasTable tr th:nth-child(3){
+    width:20% !important;
+}
+
+#canceladasTable tr th:nth-child(4){
+    width:15% !important;
+}
+
+#canceladasTable tr th:nth-child(5){
+    width:25% !important;
+}
+
+#canceladasTable tr th:nth-child(6){
+    width:15% !important;
+}
+
+#canceladasTable tr th:nth-child(7){
+    width:10% !important;
+}
+

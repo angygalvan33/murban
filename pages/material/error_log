@@ -1,0 +1,8 @@
+[23-Oct-2019 03:45:09 UTC] PHP Warning:  Missing argument 7 for Material::llenaDatos(), called in /home/carmenperez/public_html/cyg/pages/material/datos.php on line 53 and defined in /home/carmenperez/public_html/cyg/clases/material.php on line 35
+[23-Oct-2019 03:45:09 UTC] PHP Warning:  Missing argument 8 for Material::llenaDatos(), called in /home/carmenperez/public_html/cyg/pages/material/datos.php on line 53 and defined in /home/carmenperez/public_html/cyg/clases/material.php on line 36
+[23-Oct-2019 03:45:09 UTC] PHP Warning:  Missing argument 9 for Material::llenaDatos(), called in /home/carmenperez/public_html/cyg/pages/material/datos.php on line 53 and defined in /home/carmenperez/public_html/cyg/clases/material.php on line 37
+[23-Oct-2019 03:45:09 UTC] PHP Warning:  Missing argument 10 for Material::llenaDatos(), called in /home/carmenperez/public_html/cyg/pages/material/datos.php on line 53 and defined in /home/carmenperez/public_html/cyg/clases/material.php on line 38
+[23-Oct-2019 03:45:09 UTC] PHP Notice:  Undefined variable: largo_ in /home/carmenperez/public_html/cyg/clases/material.php on line 46
+[23-Oct-2019 03:45:09 UTC] PHP Notice:  Undefined variable: ancho_ in /home/carmenperez/public_html/cyg/clases/material.php on line 47
+[23-Oct-2019 03:45:09 UTC] PHP Notice:  Undefined variable: alto_ in /home/carmenperez/public_html/cyg/clases/material.php on line 48
+[23-Oct-2019 03:45:09 UTC] PHP Notice:  Undefined variable: peso_ in /home/carmenperez/public_html/cyg/clases/material.php on line 49
